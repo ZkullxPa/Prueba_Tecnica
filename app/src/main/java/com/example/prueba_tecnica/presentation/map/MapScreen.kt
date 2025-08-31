@@ -36,7 +36,7 @@ fun MapRoute(
         is CharactersState.Success -> {
             MapScreen(
                 modifier = modifier,
-                characters = s.data.results // usa los que ya tienes cargados
+                characters = s.data.results
             )
         }
     }
