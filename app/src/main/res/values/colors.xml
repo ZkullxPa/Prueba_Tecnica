@@ -11,4 +11,5 @@
     <color name="light_gray">#f9f9f9</color>
     <color name="green_connected">#008000</color>
     <color name="red_disconnected">#a10f05</color>
+    <color name="rick_green">#55b535</color>
 </resources>

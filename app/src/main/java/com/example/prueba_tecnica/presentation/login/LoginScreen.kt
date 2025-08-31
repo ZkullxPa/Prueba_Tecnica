@@ -72,7 +72,7 @@ import com.example.prueba_tecnica.R
 fun LoginScreen(modifier: Modifier = Modifier, navController: NavController, viewModel: UserViewModel){
     val context = LocalContext.current
     val windowSizeClass = calculateWindowSizeClass(activity = context as ComponentActivity)
-    val digitalColor: Color = colorResource(R.color.bluelight)
+    val digitalColor: Color = colorResource(R.color.rick_green)
     val state by viewModel.state.collectAsState()
     LaunchedEffect(state) {
         if (state is UserState.Success) {
@@ -180,7 +180,7 @@ fun LoginBody(boxModifier: Modifier, loginModifier: Modifier, navController: Nav
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(start = 10.dp, end = 10.dp),
-                colors = ButtonDefaults.buttonColors(colorResource(R.color.bluelight))
+                colors = ButtonDefaults.buttonColors(colorResource(R.color.rick_green))
             ) {
                 Text(
                     text = "Iniciar Sesión",
