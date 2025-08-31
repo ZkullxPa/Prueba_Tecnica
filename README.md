@@ -143,6 +143,11 @@ La pantalla de favoritos esta protegida con BiometricPrompt
 En caso de no tener huella o pin configurado no tendrás acceso a esta pantallas
 
 
+Imagenes de muestra
+
+Login
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/c582b649-d732-40d2-a7b7-18a824505103" />
+
 
 
 
