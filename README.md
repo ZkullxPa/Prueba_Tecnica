@@ -146,7 +146,32 @@ En caso de no tener huella o pin configurado no tendrás acceso a esta pantallas
 Imagenes de muestra
 
 Login
+
 <img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/c582b649-d732-40d2-a7b7-18a824505103" />
+
+Personajes
+
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/9a25bee7-9d56-4bf5-b43a-65c0b018be21" />
+
+
+Detalle
+
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/de87fa9c-1012-43b6-a218-869dd1ecc69f" />
+
+
+Favoritos
+
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/1062ba19-4205-4596-bd93-8c57e69805de" />
+
+
+Maps
+
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/9942ea3c-c370-49d8-ac3d-58e210bbe627" />
+
+
+
+
+
 
 
 
